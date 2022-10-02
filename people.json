@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Maria",
+        "sexo": "F",
+        "idade": 5,
+        "altura": 109.1
+    },
+    {
+        "nome": "João",
+        "sexo": "M",
+        "idade": 5,
+        "altura": 108.7
+    },
+    {
+        "nome": "Letícia",
+        "sexo": "F",
+        "idade": 10,
+        "altura": 138.6
+    },
+    {
+        "nome": "Daniel",
+        "sexo": "M",
+        "idade": 10,
+        "altura": 140.3
+    },
+    {
+        "nome": "Fernanda",
+        "sexo": "F",
+        "idade": 15,
+        "altura": 161.1
+    },
+    {
+        "nome": "Paulo",
+        "sexo": "M",
+        "idade": 15,
+        "altura": 167.8
+    }
+]
